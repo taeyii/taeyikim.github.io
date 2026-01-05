@@ -32,7 +32,7 @@ author:
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"  # ← 구글스칼라 만들면 추가
+  googlescholar    : "https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AElLoL1aggzgWAH4TAT5119YuoFtGHZOiXwH4_B36E7Dic5eu_HhsLO_DuDJ9PdMiOV-HNVxBNKiOeTA52afGbt4GTMEs-wh0freRClhetGcwf9syw&user=SuhlHloAAAAJ"  # ← 구글스칼라 만들면 추가
   inspire-hep      : 
   impactstory      : 
   orcid            : "https://orcid.org/0009-0003-9683-7015"  # ← ORCID 있으면 추가
