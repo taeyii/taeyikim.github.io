@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Taeyi Kim"
 description              : &description "Master's student in Industrial and Management Engineering at Hanyang University ERICA"
 url                      : https://taeyii.github.io  # ← 여기 네 GitHub username으로 변경
-baseurl                  : ""
+baseurl                  : "https://taeyii.github.io"
 repository               : "taeyii/taeyii.github.io"  # ← 여기도 변경
 
 # Site Author - The following control what appear as part of the author content on the side bar.
