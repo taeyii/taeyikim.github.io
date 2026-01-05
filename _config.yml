@@ -15,7 +15,7 @@ name                     : &name "Taeyi Kim"
 description              : &description "Master's student in Industrial and Management Engineering at Hanyang University ERICA"
 url                      : https://YOUR-GITHUB-USERNAME.github.io  # ← 여기 네 GitHub username으로 변경
 baseurl                  : ""
-repository               : "YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"  # ← 여기도 변경
+repository               : "taeyii.github.io"  # ← 여기도 변경
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"  # ← 구글스칼라 만들면 추가
   inspire-hep      : 
   impactstory      : 
-  orcid            : "https://orcid.org/0000-0000-0000-0000"  # ← ORCID 있으면 추가
+  orcid            : "https://orcid.org/0009-0003-9683-7015"  # ← ORCID 있으면 추가
   semantic         : 
   ssrn             : 
   pubmed           : 
@@ -47,7 +47,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "YOUR-GITHUB-USERNAME"  # ← GitHub username
+  github           : "taeyii"  # ← GitHub username
   kaggle           : 
   stackoverflow    : 
 
