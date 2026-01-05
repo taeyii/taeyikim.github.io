@@ -3,7 +3,7 @@ title: "Hybrid Compression for Accurate End of Life Prediction on Edge Battery M
 collection: publications
 category: conferences
 permalink: /publication/2025-hybrid-compression-eol
-date: 2025-10-10
+date: 2025-10-02
 venue: 'IEEE Global Reliability & PHM Conference'
 paperurl: ''
 citation: 'T. Kim, Y. Seo, S. Barde. (2025). &quot;Hybrid Compression for Accurate End of Life Prediction on Edge Battery Management System.&quot; <i>IEEE Global Reliability & PHM Conference</i>.'
