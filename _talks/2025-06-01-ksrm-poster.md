@@ -3,7 +3,7 @@ title: "Response-based Knowledge Distillation, Pruning, and Quantization Approac
 collection: talks
 type: "Poster"
 permalink: /talks/2025-ksrm-poster
-venue: "KSRM Spring Conference"
+venue: "KORAS Spring Conference"
 date: 2025-06-01
 location: "South Korea"
 ---
