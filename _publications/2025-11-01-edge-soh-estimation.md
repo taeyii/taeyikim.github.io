@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-edge-soh-estimation
 date: 2025-11-01
 venue: 'Journal of Energy Storage'
-paperurl: 'https://doi.org/논문DOI'
+paperurl: '[https://doi.org/논문DOI](https://www.sciencedirect.com/science/article/pii/S2352152X25029883)'
 citation: 'T. Kim, Y. Seo, S. Barde. (2025). &quot;Edge-compatible SOH Estimation for Li-ion Batteries via Hybrid Knowledge Distillation and Model Compression.&quot; <i>Journal of Energy Storage</i>.'
 ---
 
