@@ -13,7 +13,7 @@ title                    : "Taeyi Kim"
 title_separator          : "-"
 name                     : &name "Taeyi Kim"
 description              : &description "Master's student in Industrial and Management Engineering at Hanyang University ERICA"
-url                      : https://YOUR-GITHUB-USERNAME.github.io  # ← 여기 네 GitHub username으로 변경
+url                      : https://taeyii.github.io  # ← 여기 네 GitHub username으로 변경
 baseurl                  : ""
 repository               : "taeyii.github.io"  # ← 여기도 변경
 
