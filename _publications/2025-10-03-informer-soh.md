@@ -3,7 +3,7 @@ title: "Robust SOH Prediction for Lithium-Ion Batteries via ProbSparse Informer 
 collection: publications
 category: conferences
 permalink: /publication/2025-informer-soh
-date: 2025-10-03
+date: TBD
 venue: 'IEEE Global Reliability & PHM Conference'
 paperurl: ''
 citation: 'Y. Seo, T. Kim, S. Barde. (2025). &quot;Robust SOH Prediction for Lithium-Ion Batteries via ProbSparse Informer Architecture.&quot; <i>IEEE Global Reliability & PHM Conference</i>.'
