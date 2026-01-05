@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-pinn-soh-prediction
 date: 2025-10-01
 venue: 'Energy'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360544225039581'
 citation: 'Y. Seo, T. Kim, S. Barde. (2025). &quot;Enhancing Battery SOH Prediction with Physics-Informed Neural Networks in Data-Scarce Environments.&quot; <i>Energy</i>.'
 ---
 
