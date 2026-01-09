@@ -86,7 +86,7 @@ redirect_from:
 
 ## Extracurricular Activities
 
-* **Founding Member & Executive Committee**, HY PASS (University Soccer Club), Mar - Dec 2023
+* **Founding Member & Executive Committee**, HY PASS (University Football Club), Mar - Dec 2023
   * Established club and recruitment system, recruited 30+ members
   * Organized 1st Ansan University Festival, contributed to championship
 
