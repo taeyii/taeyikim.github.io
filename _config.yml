@@ -22,7 +22,6 @@ author:
   # Biographic information
   avatar           : "profile.png"  # images 폴더에 프로필 사진 넣기
   name             : "Taeyi Kim"
-  pronouns         : "he/him"
   bio              : "M.S. Student @ IODA Lab, Hanyang University ERICA. Researching prognostic and health management, time-series forecasting, and edge AI."
   location         : "Ansan, South Korea"
   employer         : "Hanyang University ERICA"
